@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe",
+            "includePath": [
+                "${workspaceRoot}",
+                "C:\\mingw64\\include",                
+                "C:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include",
+                "C:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++",
+                "C:\\OpenCV-MinGW-Build\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "__GNUC__=5",
+                "__cdecl=__attribute__((__cdecl__))"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "C:\\mingw64\\include",                    
+                    "C:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include",                
+                    "C:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++",                    
+                    "C:\\OpenCV-MinGW-Build\\include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
